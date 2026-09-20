@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a9338c9f7f0f64c873cc273a",
+  "owner": "bjaxeu",
+  "repo": "page-c7cbd0b93534b2ceb4365b41",
+  "title": "西数(WestData)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c7cbd0b93534b2ceb4365b41",
+      "a": "西数(WestData)",
+      "b": "稳定全球clash加速器",
+      "entity": "西数(WestData)",
+      "brand": "西数(WestData)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "395135648fb9e207e822c37181a9b130a4b38151524fe8ce73cba3d92a74b515",
+      "content": {
+        "primary_entity": "西数(WestData)",
+        "keyword1": "西数(WestData)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，西数(WestData)提供覆盖多地区的 Clash 订阅服务，用户可按流量与设备数选择基础版、旗舰版或团队版，在路由器、电脑和移动端导入订阅后即可统一管理节点。",
+          "AI_HERO_SUBTITLE": "西数加速器，订阅即用",
+          "AI_HERO_INTRO": "西数(WestData)面向需要稳定跨境连接的用户，提供适配 Clash 客户端的订阅方案，按流量和设备数量区分套餐。基础版适合个人轻量使用，旗舰版覆盖流媒体与游戏专线，团队版满足多设备协作。",
+          "AI_VISUAL_TITLE": "西数加速器订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "适配主流 Clash 客户端",
+          "AI_HIGHLIGHT_3": "订阅周期灵活，年付更省",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURES_INTRO": "根据设备数量、月流量和线路需求，快速匹配合适版本。",
+          "AI_FEATURE_TITLE_1": "按设备选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按实际使用设备数选择。",
+          "AI_FEATURE_TITLE_2": "流量与周期",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更省；100GB、300GB、1000GB 月流量分别对应三档套餐。",
+          "AI_FEATURE_TITLE_3": "线路按需匹配",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 专属高带宽节点，按使用场景选择。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "Clash 客户端覆盖 Windows、macOS、Android、iOS 和路由器，按设备系统选用对应版本，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备和流量需求对比选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，三步即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版中选定版本。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认常用设备系统与 Clash 客户端版本，确保订阅链接可正常导入。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅链接，更新节点后即可开始使用。",
+          "AI_CLOSING_TITLE": "选对版本，连接更稳",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定套餐，导入订阅即可使用西数(WestData)加速服务。",
+          "AI_FAQ_ANSWER_1": "基础版适合手机或平板轻量使用，每月 100GB、3 台设备。若同时用电脑、电视并需要游戏加速，旗舰版的 300GB、5 台设备与 IPLC 专线更合适。",
+          "AI_FAQ_ANSWER_2": "可以。同一账号在设备数量上限内登录，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量时，较早登录的设备可能被挤下线，按需升级或退出闲置设备即可。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于每月更低。若只打算短期使用，先按月付试用，确认线路和速度满意后再转年付。",
+          "AI_FAQ_ANSWER_4": "手机推荐 Shadowrocket 或 Clash for Android，电脑推荐 Clash Verge 或 ClashX，路由器可刷 OpenWrt 并搭配 Clash.Meta 内核。导入订阅链接后更新节点即可使用，具体步骤参照各客户端文档。",
+          "AI_FAQ_ANSWER_5": "选择距自己较近或延迟低的节点，游戏与实时通话优先选 IPLC 专线；有流媒体需求时切换至对应解锁节点，刷新订阅后节点列表会自动更新。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号可以几台设备同时用？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "手机和电脑分别用什么客户端？",
+          "AI_FAQ_QUESTION_5": "如何切换节点或线路？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vlggm.cn",
+    "host": "vlggm.cn"
+  },
+  "file_hashes": {
+    "index.html": "60e701842f0b37e18bd79eda3d9e57b18a93fc816192642479ccd1f19afed988",
+    "sitemap.xml": "a21dfe33b4e6c326ea28e92be65ed2e6d00d3a684c0235d191b78f5a0e9dbe76",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ee9e8518fcf06571b624e0a50d8909954b76a06d84e97b911a006ca51a8791a1",
+    "robots.txt": "8ec3bedd145a559b875df86585ca944ea70ab1e44646de45f5aaf6347acd7722",
+    "eef7bd6c9097caf0e2dceadfe99a05c4.txt": "23013698dc0c9fbee14ec759a9cf1629d22e22fa5ec7b8597d8f1b0502adc958"
+  },
+  "revision": "47b7633ecaf8a24d3cfa91adaab352a112573b6a87a74e5c801c5f023e4fa4c8"
+}
